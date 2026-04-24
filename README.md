@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📈 Stats & Impact
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=13&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13&layout=compact&theme=radical&hide=html,css)
+
 <!--
 **13/13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
