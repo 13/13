@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a Full-Stack Developer.
+
 I bridge the gap between complex backends and high-performance user interfaces.
 
 
