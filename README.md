@@ -15,14 +15,23 @@ I bridge the gap between complex backends and high-performance user interfaces.
 </td>
 <td>
 
-### **Caero**
-
-A self-hosted price tracker
-
-**Tech Stack:**  
-`React (TypeScript)` `FastAPI (Python)` `PostgreSQL`
-
+**Caero**\
+A price tracker\
+`React (TypeScript)` `FastAPI (Python)` `PostgreSQL`\
 [View Repository](https://github.com/13/caero)
+
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/13/cuenti/raw/main/assets/logo/CuentiKoi.png" width="50" />
+</td>
+<td>
+
+**Cuenti**\
+A personal finance management application\
+`Vaadin` `Spring Boot (Java)` `PostgreSQL`\
+[View Repository](https://github.com/13/cuenti)
 
 </td>
 </tr>
