@@ -65,4 +65,18 @@ A stopwatch HUD overlay\
 </td>
 </tr>
 
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/13/timehud/blob/main/assets/cronv.png" width="50" />
+</td>
+<td>
+
+**cronv**\
+A terminal UI for managing cron jobs\
+`Rust`\
+[View Repository](https://github.com/13/cronv)
+
+</td>
+</tr>
+
 </table>
