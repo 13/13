@@ -51,4 +51,18 @@ A small homeautomation application\
 </td>
 </tr>
 
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/13/timehud/blob/main/src/timehud/timehud.svg" width="50" />
+</td>
+<td>
+
+**TimeHUD**\
+A stopwatch HUD overlay\
+`PyQt6` `Python`\
+[View Repository](https://github.com/13/timehud)
+
+</td>
+</tr>
+
 </table>
