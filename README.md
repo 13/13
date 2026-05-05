@@ -25,6 +25,20 @@ A price tracker\
 
 <tr>
 <td width="80" align="center">
+  <img src="https://github.com/13/cronv/blob/main/assets/cronv.png" width="50" />
+</td>
+<td>
+
+**cronv**\
+A terminal UI for managing cron jobs\
+`Rust`\
+[View Repository](https://github.com/13/cronv)
+
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
   <img src="https://github.com/13/cuenti/raw/main/assets/logo/CuentiKoi.png" width="50" />
 </td>
 <td>
@@ -45,7 +59,7 @@ A personal finance management application\
 
 **MuhPortalWeb**\
 A small homeautomation application\
-`Nuxt (TypeScript)` `Vue` `MQTT`\
+`Nuxt` `Vue` `MQTT`\
 [View Repository](https://github.com/13/muhportalweb)
 
 </td>
@@ -61,20 +75,6 @@ A small homeautomation application\
 A stopwatch HUD overlay\
 `PyQt6` `Python`\
 [View Repository](https://github.com/13/timehud)
-
-</td>
-</tr>
-
-<tr>
-<td width="80" align="center">
-  <img src="https://github.com/13/timehud/blob/main/assets/cronv.png" width="50" />
-</td>
-<td>
-
-**cronv**\
-A terminal UI for managing cron jobs\
-`Rust`\
-[View Repository](https://github.com/13/cronv)
 
 </td>
 </tr>
