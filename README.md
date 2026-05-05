@@ -22,6 +22,7 @@ A price tracker\
 
 </td>
 </tr>
+
 <tr>
 <td width="80" align="center">
   <img src="https://github.com/13/cuenti/raw/main/assets/logo/CuentiKoi.png" width="50" />
@@ -35,4 +36,19 @@ A personal finance management application\
 
 </td>
 </tr>
+
+<tr>
+<td width="80" align="center">
+  <img src="https://github.com/13/muhportalweb/raw/main/assets/muhportal.png" width="50" />
+</td>
+<td>
+
+**MuhPortalWeb**\
+A small homeautomation application\
+`Nuxt (TypeScript)` `Vue` `MQTT`\
+[View Repository](https://github.com/13/muhportalweb)
+
+</td>
+</tr>
+
 </table>
