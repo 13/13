@@ -65,6 +65,23 @@ A personal finance management application\
 
 <tr>
 <td width="80" align="center">
+  <a href="https://github.com/13/muhportal">
+    <img src="https://raw.githubusercontent.com/13/muhportal/main/assets/muhportal.png" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/muhportal">View</a>
+</td>
+<td>
+
+**MuhPortal**\
+A small homeautomation android application\
+`Android` `MQTT`\
+`Kotlin`
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
   <a href="https://github.com/13/muhportalweb">
     <img src="https://raw.githubusercontent.com/13/muhportalweb/main/assets/muhportal.png" width="50" />
   </a>
