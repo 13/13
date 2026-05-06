@@ -135,7 +135,7 @@ A small homeautomation application\
 <tr>
 <td width="80" align="center">
   <a href="https://github.com/13/qseng">
-    <img src="https://raw.githubusercontent.com/13/qseng/main/assets/qseng.svg" width="50" />
+    <img src="https://raw.githubusercontent.com/13/qseng/main/assets/qseng.png" width="50" />
   </a>
   <br/>
   <a href="https://github.com/13/qseng">View</a>
