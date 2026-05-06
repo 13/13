@@ -65,6 +65,22 @@ A personal finance management application\
 
 <tr>
 <td width="80" align="center">
+  <a href="https://github.com/13/cuenti_mobile">
+    <img src="https://raw.githubusercontent.com/13/cuenti/main/assets/logo/CuentiKoi.png" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/cuenti_mobile">View</a>
+</td>
+<td>
+
+**Cuenti Mobile**\
+A mobile client for Cuenti\
+`Flutter`
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
   <a href="https://github.com/13/muhportal">
     <img src="https://raw.githubusercontent.com/13/muhportal/main/assets/muhportal.png" width="50" />
   </a>
