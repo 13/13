@@ -79,6 +79,23 @@ A mobile client for Cuenti\
 </td>
 </tr>
 
+
+<tr>
+<td width="80" align="center">
+  <a href="https://github.com/13/medora">
+    <img src="https://raw.githubusercontent.com/13/medora/main/assets/icon/medora_icon_pill.png" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/medora">View</a>
+</td>
+<td>
+
+**Medora**\
+A Mobile Home Medicine Cabinet Manager\
+`Flutter` `Supabase`
+</td>
+</tr>
+
 <tr>
 <td width="80" align="center">
   <a href="https://github.com/13/muhportal">
@@ -115,6 +132,24 @@ A small homeautomation application\
 
 <tr>
 <td width="80" align="center">
+  <a href="https://github.com/13/qseng">
+    <img src="https://raw.githubusercontent.com/13/qseng/main/assets/qseng.svg" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/qseng">View</a>
+</td>
+<td>
+
+**Qseng**\
+A family tree and genealogy app\
+`Angular` `ASP.NET` `PostgreSQL`\
+`C#` `TypeScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
   <a href="https://github.com/13/timehud">
     <img src="https://raw.githubusercontent.com/13/timehud/main/src/timehud/timehud.svg" width="50" />
   </a>
@@ -124,7 +159,7 @@ A small homeautomation application\
 <td>
 
 **TimeHUD**\
-A stopwatch HUD overlay\
+A stopwatch HUD overlay for Linux\
 `PyQt6`\
 `Python`
 
