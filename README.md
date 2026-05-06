@@ -75,6 +75,7 @@ A personal finance management application\
 
 **Cuenti Mobile**\
 A mobile client for Cuenti\
+`Android`\
 `Flutter`
 </td>
 </tr>
@@ -91,7 +92,8 @@ A mobile client for Cuenti\
 <td>
 
 **Medora**\
-A Mobile Home Medicine Cabinet Manager\
+A mobile home medicine cabinet manager\
+`Android`\
 `Flutter` `Supabase`
 </td>
 </tr>
