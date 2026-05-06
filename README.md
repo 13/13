@@ -76,7 +76,7 @@ A personal finance management application\
 **Cuenti Mobile**\
 A mobile client for Cuenti\
 `Android` `Flutter`\
-`Dart` `Flutter`
+`Dart` `Kotlin`
 </td>
 </tr>
 
@@ -93,8 +93,8 @@ A mobile client for Cuenti\
 
 **Medora**\
 A mobile home medicine cabinet manager\
-`Android` `Flutter`\
-`Dart` `Kotlin` `Supabase`
+`Android` `Flutter` `Supabase`\
+`Dart` `Kotlin`
 </td>
 </tr>
 
