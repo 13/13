@@ -30,6 +30,24 @@ A price tracker app\
 
 <tr>
 <td width="80" align="center">
+  <a href="https://github.com/13/carlito-demo">
+    <img src="https://raw.githubusercontent.com/13/carlito-demo/assets/carlito.png" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/carlito-demo">View</a>
+</td>
+<td>
+
+**carlito**\
+AI solution suggestion\
+`Chrome Extension` `FastAPI` `ChromaDB` `PostgreSQL`\
+`JavaScript` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="80" align="center">
   <a href="https://github.com/13/cronv">
     <img src="https://raw.githubusercontent.com/13/cronv/main/assets/cronv.png" width="50" />
   </a>
