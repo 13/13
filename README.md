@@ -31,7 +31,7 @@ A price tracker app\
 <tr>
 <td width="80" align="center">
   <a href="https://github.com/13/carlito-demo">
-    <img src="https://raw.githubusercontent.com/13/carlito-demo/assets/carlito.png" width="50" />
+    <img src="https://raw.githubusercontent.com/13/carlito-demo/main/assets/carlito.png" width="50" />
   </a>
   <br/>
   <a href="https://github.com/13/carlito-demo">View</a>
@@ -39,7 +39,7 @@ A price tracker app\
 <td>
 
 **carlito**\
-AI solution suggestion\
+AI solution suggestion for Helpdesk\
 `Chrome Extension` `FastAPI` `ChromaDB` `PostgreSQL`\
 `JavaScript` `Python`
 
