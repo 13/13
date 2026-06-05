@@ -39,7 +39,7 @@ A price tracker app\
 <td>
 
 **carlito**\
-AI solution suggestion for Helpdesk\
+AI solution suggestion for Helpdesk tickets\
 `Chrome Extension` `FastAPI` `ChromaDB` `PostgreSQL`\
 `JavaScript` `Python`
 
@@ -98,6 +98,22 @@ A mobile client for Cuenti\
 </td>
 </tr>
 
+<tr>
+<td width="80" align="center">
+  <a href="https://github.com/13/dontdrink">
+    <img src="https://raw.githubusercontent.com/13/dontdrink/main/assets/dontdrink.png" width="50" />
+  </a>
+  <br/>
+  <a href="https://github.com/13/dontdrink">View</a>
+</td>
+<td>
+
+**Don't Drink**\
+A bad habit tracker\
+`Android` `Flutter`\
+`Dart` `Kotlin`
+</td>
+</tr>
 
 <tr>
 <td width="80" align="center">
